@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <clipPath id="pn5sd3ipua">
+            <path data-name="사각형 3090" style="fill:none" d="M0 0h56v56H0z"/>
+        </clipPath>
+        <clipPath id="7fzjv7dm7b">
+            <path data-name="사각형 3088" transform="translate(8 8)" style="fill:none" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 5037" style="clip-path:url(#pn5sd3ipua)">
+        <g data-name="그룹 5036">
+            <g data-name="그룹 5035" style="clip-path:url(#pn5sd3ipua)">
+                <g data-name="그룹 5031" style="opacity:.5">
+                    <g data-name="그룹 5030">
+                        <g data-name="그룹 5029" style="clip-path:url(#pn5sd3ipua)">
+                            <path data-name="사각형 3085" style="fill:none" d="M0 0h56v56H0z"/>
+                        </g>
+                    </g>
+                </g>
+                <g data-name="그룹 5034" style="opacity:.4">
+                    <g data-name="그룹 5033">
+                        <g data-name="그룹 5032" style="clip-path:url(#7fzjv7dm7b)">
+                            <path data-name="사각형 3087" transform="translate(8 8)" style="fill:none" d="M0 0h40v40H0z"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="패스 11952" d="M32 40.5a3 3 0 1 1-3-3 3 3 0 0 1 3 3" style="fill:#fff"/>
+                <path data-name="패스 11953" d="M32 28.25a3 3 0 1 1-3-3 3 3 0 0 1 3 3" style="fill:#fff"/>
+                <path data-name="패스 11954" d="M32 16a3 3 0 1 1-3-3 3 3 0 0 1 3 3" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

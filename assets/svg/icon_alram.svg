@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <clipPath id="n6vcyp9uxa">
+            <path data-name="사각형 596" style="fill:none" d="M0 0h56v56H0z"/>
+        </clipPath>
+        <clipPath id="larx747nvb">
+            <path data-name="사각형 594" transform="translate(8 8)" style="fill:none" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Icon_Alram" style="clip-path:url(#n6vcyp9uxa)">
+        <g data-name="그룹 847">
+            <g data-name="그룹 846" style="clip-path:url(#n6vcyp9uxa)">
+                <g data-name="그룹 842" style="opacity:.5">
+                    <g data-name="그룹 841">
+                        <g data-name="그룹 840" style="clip-path:url(#n6vcyp9uxa)">
+                            <path data-name="사각형 591" style="fill:none" d="M0 0h56v56H0z"/>
+                        </g>
+                    </g>
+                </g>
+                <g data-name="그룹 845" style="opacity:.4">
+                    <g data-name="그룹 844">
+                        <g data-name="그룹 843" style="clip-path:url(#larx747nvb)">
+                            <path data-name="사각형 593" transform="translate(8 8)" style="fill:none" d="M0 0h40v40H0z"/>
+                        </g>
+                    </g>
+                </g>
+                <path data-name="패스 9519" d="M43.212 27.46a14.752 14.752 0 0 0-29.5 0v13.175h29.5z" style="stroke:#191919;stroke-miterlimit:10;stroke-width:3px;fill:none"/>
+                <path data-name="선 176" transform="translate(11 40.636)" style="stroke:#191919;stroke-miterlimit:10;stroke-width:3px;fill:none" d="M0 0h35"/>
+                <path data-name="패스 9520" d="M23.889 44a4.711 4.711 0 0 0 9.144 0z" style="fill:#191919"/>
+                <path data-name="선 177" transform="translate(28.46 9)" style="stroke:#191919;stroke-miterlimit:10;stroke-width:3px;fill:none" d="M0 0v2.709"/>
+            </g>
+        </g>
+    </g>
+</svg>

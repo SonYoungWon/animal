@@ -1,0 +1,27 @@
+<svg id="Icon_KakaoLogo" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="사각형_949" data-name="사각형 949" style="fill:transparent" d="M0 0h36v36H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="사각형_947" data-name="사각형 947" class="cls-2" d="M0 0h36v36H0z"/>
+        </clipPath>
+        <style>
+            .cls-2{fill:none}.cls-3{clip-path:url(#clip-path)}
+        </style>
+    </defs>
+    <g id="그룹_1440" data-name="그룹 1440" class="cls-3">
+        <g id="그룹_1439" data-name="그룹 1439">
+            <g id="그룹_1438" data-name="그룹 1438" class="cls-3">
+                <g id="그룹_1437" data-name="그룹 1437" style="opacity:.5">
+                    <g id="그룹_1436" data-name="그룹 1436">
+                        <g id="그룹_1435" data-name="그룹 1435" style="clip-path:url(#clip-path-3)">
+                            <path id="사각형_946" data-name="사각형 946" class="cls-2" d="M0 0h36v36H0z"/>
+                        </g>
+                    </g>
+                </g>
+                <path id="패스_9763" data-name="패스 9763" d="M18 3.5C9.283 3.5 2.217 9.086 2.217 15.977c0 4.486 2.994 8.417 7.488 10.617-.331 1.232-1.2 4.464-1.369 5.156-.214.858.314.847.661.616.271-.181 4.324-2.937 6.074-4.127a19.931 19.931 0 0 0 2.929.216c8.717 0 15.783-5.586 15.783-12.478S26.717 3.5 18 3.5" style="fill:#381e1f"/>
+            </g>
+        </g>
+    </g>
+</svg>
